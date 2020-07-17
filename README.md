@@ -6,3 +6,5 @@ I'm currently working on a **Discord** bot, [Mango](https://github.com/ma15fo43/
 
 ### I'm currently learning... 🤔
 I'm learning PHP, SQL, and in-depth Python.
+
+<img src="https://github-readme-stats.vercel.app/api?username=ma15fo43&show_icons=true%20alt=ma15fo43" alt="ma15fo43">
