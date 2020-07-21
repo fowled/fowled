@@ -1,3 +1,5 @@
+<img src="https://u.cubeupload.com/Mazz3015/e50test.png" alt="banner" weight="150px">
+
 ### Welcome to my profile! 😃
 I'm a learning developer located in France. I like to play around with HTML, CSS, Java, JavaScript and Python.
 
