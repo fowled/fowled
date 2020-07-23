@@ -11,6 +11,6 @@ Hello, and welcome to my profile 👋! I'm **ma15fo43** but also known as **Mazz
 <br>I recently redesigned my website from scratch - you should check it out.
 
 <hr>
-<div style="align-content: "center";>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ma15fo43&show_icons=true%20alt=ma15fo43" alt="ma15fo43" />
-</div>
+</p>
