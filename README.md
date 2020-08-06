@@ -12,6 +12,5 @@ Hello, and welcome to my profile 👋! I'm **ignmazz** on here but you can call 
 
 <hr>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ignmazz&show_icons=true%20alt=ignmazz" alt="ignmazz" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ignmazz" width="285px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ignmazz&show_icons=true%20alt=ignmazz" alt="ignmazz" weight="670px"/>
 </p>
