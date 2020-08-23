@@ -8,7 +8,7 @@
 
 <h3>My current projects</h3>
   <ul><a href="https://github.com/mazzlabs/Mango">Mango</a>
-  <br>A multi-purpose & verified Discord bot, with <pre>moderation</pre>, </pre>music</pre>, <pre>game</pre>, <pre>information</pre> and <pre>economy</pre> commands. It has more than <b>160,000</b> users and is serving over <b>100</b> guilds. <br>You can invite it by clicking [here](https://discord.com/oauth2/authorize?client_id=497443144632238090&permissions=8&scope=bot).
+  <br>A multi-purpose & verified Discord bot, with <code>moderation</code>, </code>music</code>, <code>game</code>, <code>information</code> and <code>economy</code> commands. It has more than <b>160,000</b> users and is serving over <b>100</b> guilds. <br>You can invite it by clicking [here](https://discord.com/oauth2/authorize?client_id=497443144632238090&permissions=8&scope=bot).
 
   <ul><a href="https://github.com/mazzlabs/scratchlib">Scratchlib</a>
   <br>A powerful library to make requests to the Scratch API, very easily. 
@@ -17,9 +17,6 @@
   <br>I recently redesigned my website from scratch - you should check it out.
 </p>
 
-![](https://raw.githubusercontent.com/ma15fo43/ma15fo43/master/medias/github_banner.png)
 
 <hr>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/37367577/90975124-dc46b100-e531-11ea-808a-549a2053e85d.png" width="400px" />
-</p>
+![](https://raw.githubusercontent.com/ma15fo43/ma15fo43/master/medias/github_banner.png)
