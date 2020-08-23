@@ -1,8 +1,8 @@
-<p align="right">
+<p align="right" style="position: absolute">
   <img src="https://user-images.githubusercontent.com/37367577/90978233-87fcfa80-e54c-11ea-968d-81ed5b291b8d.png" />
 </p>
 
-<p align="left">
+<p align="left" style="position: absolute">
   Hello, and welcome to my profile 👋! I'm <b>mazzlabs</b> on here but you can call me <b>Mazz</b>. 
   <br>I'm a fullstack developer located in France. I like to play around and build things with HTML, CSS, Java, JavaScript and Python.
 
