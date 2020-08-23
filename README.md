@@ -1,6 +1,6 @@
-<p align="right" style="position: absolute">
+<div style="float: right">
   <img src="https://user-images.githubusercontent.com/37367577/90978233-87fcfa80-e54c-11ea-968d-81ed5b291b8d.png" />
-</p>
+</div>
 
 <p align="left" style="position: absolute">
   Hello, and welcome to my profile 👋! I'm <b>mazzlabs</b> on here but you can call me <b>Mazz</b>. 
@@ -14,7 +14,7 @@
   <li><a href="https://github.com/mazzlabs/scratchlib">Scratchlib</a>
   <br>A powerful library to make requests to the Scratch API, very easily. 
 
-  <li><a href="https://github.com/Ma15fo43/ma15fo43.github.io">Website</a>
+  <li><a href="https://github.com/mazzlabs/mazzlabs.github.io">Website</a>
   <br>I recently redesigned my website from scratch - you should check it out.
   </ul>
 </p>
