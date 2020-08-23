@@ -1,5 +1,5 @@
 <div style="float: left; display: flex">
-  <img src="https://user-images.githubusercontent.com/37367577/90978710-16bf4680-e550-11ea-938c-d55be36e859c.png" width="400px" style="float: right" />
+  <img src="https://user-images.githubusercontent.com/37367577/90978710-16bf4680-e550-11ea-938c-d55be36e859c.png" width="400px" style="float: right !important; margin-left:15px" />
 
 
 <p>
