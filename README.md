@@ -16,8 +16,10 @@
 
   <li><a href="https://github.com/Ma15fo43/ma15fo43.github.io">Website</a>
   <br>I recently redesigned my website from scratch - you should check it out.
+  </ul>
 </p>
 
 
 <hr>
+
 ![](https://raw.githubusercontent.com/ma15fo43/ma15fo43/master/medias/github_banner.png)
