@@ -14,8 +14,8 @@
   <br>I recently redesigned my website from scratch - you should check it out.
   </ul>
 </p>
-</div>
 
+![Spotify](https://mazzlabs.vercel.app/api/spotify)
 
 <hr>
 
