@@ -15,8 +15,6 @@
   </ul>
 </p>
 
-![Spotify](https://mazzlabs.vercel.app/api/spotify)
-
 <hr>
 
 ![](https://raw.githubusercontent.com/ma15fo43/ma15fo43/master/medias/github_banner.png)
