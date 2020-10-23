@@ -15,6 +15,9 @@
   </ul>
 </p>
 
+<h3>My GitHub stats</h3>
+<img src="https://github-readme-stats.vercel.app/api?username=mazzlabs" />
+
 <hr>
 
 ![](https://raw.githubusercontent.com/ma15fo43/ma15fo43/master/medias/github_banner.png)
