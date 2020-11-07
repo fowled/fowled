@@ -18,8 +18,5 @@
   </ul>
 </p>
 
-<hr>
-
-<div align="center">
-    <img src="https://raw.githubusercontent.com/mazzlabs/mazzlabs/master/medias/banner.png" />
-</div>
+<h3>My GitHub stats</h3>
+<img src="https://github-readme-stats.vercel.app/api?username=mazzlabs&show_icons=true&title_color=7a1c86&icon_color=7a1c86&include_all_commits=true" />
