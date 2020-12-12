@@ -19,7 +19,7 @@ I'm a fullstack developer located in France.
 ### 🔗 Connect with me
 <a href="https://mazz.fun"><img src="https://img.shields.io/badge/-mazz.fun-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="mailto:ma15fo43@gmail.com"><img src="https://img.shields.io/badge/-mazz@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://twitter.com/mazzlabs"><img src="https://img.shields.io/badge/-@mazzdevs-3423A6?style=flat&logo=twitter&logoColor=white&color=blue"/></a>
+<a href="https://twitter.com/mazzdevs"><img src="https://img.shields.io/badge/-@mazzdevs-3423A6?style=flat&logo=twitter&logoColor=white&color=blue"/></a>
 <a href="https://github.com/mazzlabs"><img src="https://img.shields.io/badge/-@mazzlabs-3423A6?style=flat&logo=github&logoColor=white&color=black"/></a>
 <a href="https://open.spotify.com/user/edj6e418eswdx5ug1oei47es7"><img src="https://img.shields.io/badge/-@mazz-3423A6?style=flat&logo=spotify&logoColor=white&color=#1DB954"></a>
 <a href="https://www.twitch.tv/mazzdevs"><img src="https://img.shields.io/badge/-@mazzdevs-3423A6?style=flat&logo=twitch&logoColor=white&color=purple"/></a>
