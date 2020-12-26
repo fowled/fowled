@@ -23,4 +23,3 @@ I'm a fullstack developer located in France.
 <a href="https://github.com/mazzlabs"><img src="https://img.shields.io/badge/-@mazzlabs-3423A6?style=flat&logo=github&logoColor=white&color=black"/></a>
 <a href="https://open.spotify.com/user/edj6e418eswdx5ug1oei47es7"><img src="https://img.shields.io/badge/-@mazz-3423A6?style=flat&logo=spotify&logoColor=white&color=#1DB954"></a>
 <a href="https://www.twitch.tv/mazzdevs"><img src="https://img.shields.io/badge/-@mazzdevs-3423A6?style=flat&logo=twitch&logoColor=white&color=purple"/></a>
-<img src="https://img.shields.io/badge/-@Max.%237777-3423A6?style=flat&logo=discord&logoColor=white&color=blue"/>
