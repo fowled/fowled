@@ -1,5 +1,5 @@
 ### 👋 Hello! Welcome to my profile!
-I'm a fullstack developer located in France. I like playing around with things and trying something new whenever I can. 
+I'm a fullstack developer located in France. I like playing around with things and trying something new whenever I can. I'm still a novice developer.
 
 ### 🛠 Tech stack
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
