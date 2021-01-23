@@ -1,5 +1,5 @@
 ### 👋 Hello! Welcome to my profile!
-I'm Mazz, fullstack developer from <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> <b>Paris, France</b>.
+I'm Mazz, a fullstack developer from <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> <b>Paris, France</b>.
 
 ### 🛠 Tech stack
 <p>
