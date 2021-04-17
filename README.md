@@ -1,6 +1,6 @@
 ### 👋 Hello! Welcome to my profile!
 I'm Mazz, a fullstack developer from <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> <b>Paris, France</b>.
-Ever since I have 10 years old, I'm interested about code and want to know everything around computers. I started with the Scratch website, and now here I am on GitHub!
+Ever since I was 10 years old, I'm interested about code and want to know everything around computers. I started with the Scratch website, and now here I am on GitHub!
 You can find me on the internet with the same username, except on some websites where I signed up as "mazzdevs". 
 
 ### 🪁 Projects
