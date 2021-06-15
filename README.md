@@ -9,4 +9,7 @@ You can find me on the internet with the same username, except on some websites 
 * [ScratchLib](https://github.com/mazzlabs/ScratchLib) - a powerful library to interact with the Scratch API 🚀
 * [Scratch userscript](https://github.com/mazzlabs/scratch.user.js) - a nice userscript, made to improve your experience on the Scratch website 🌌
 
+### 📬 Contact me
+You can contact me on Telegram - https://t.me/hypocrisie
+
 <img src="https://komarev.com/ghpvc/?username=mazzlabs&label=Profile%20views&color=blueviolet&style=flat" alt="mazz" />
