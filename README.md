@@ -8,6 +8,7 @@ You can find me on the internet with the same username, except on some websites 
 * [Discord.TS](https://github.com/mazzlabs/discord.ts) - a template for discord.js TypeScript developers 🌠
 * [ScratchLib](https://github.com/mazzlabs/ScratchLib) - a powerful library to interact with the Scratch API 🚀
 * [Scratch userscript](https://github.com/mazzlabs/scratch.user.js) - a nice userscript, made to improve your experience on the Scratch website 🌌
+* [Amethyst](https://github.com/mazzlabs/Amethyst) - a Node.JS URL shortener, using Express and Handlebars 🚂
 
 ### 📬 Contact me
 You can contact me on Telegram - https://t.me/mazzdevs
