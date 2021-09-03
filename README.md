@@ -11,6 +11,6 @@ You can find me on the internet with the same username, except on some websites 
 * [Amethyst](https://github.com/mazzlabs/Amethyst) - a Node.JS URL shortener, using Express and Handlebars 🚂
 
 ### 📬 Contact me
-You can contact me on Telegram - https://t.me/mazzdevs
+You can contact me on Telegram - https://t.me/mazziwnl
 
 <img src="https://komarev.com/ghpvc/?username=mazzlabs&label=Profile%20views&color=blueviolet&style=flat" alt="mazz" />
