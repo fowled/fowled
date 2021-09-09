@@ -1,7 +1,6 @@
 ### 👋 Hello! Welcome to my profile!
-I'm Mazz, a fullstack developer from <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> <b>Paris, France</b>.
-Ever since I was 10 years old, I'm interested about code and want to know everything around computers. I started with the Scratch website, and now here I am on GitHub!
-You can find me on the internet with the same username, except on some websites where I signed up as "mazzdevs". 
+I'm Max, a fullstack developer from <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> <b>Paris, France</b>.
+Ever since I was 10 years old, I'm interested about code and want to know everything around computers. 
 
 ### 🪁 Projects
 * [Mango](https://github.com/mazzlabs/Mango) - a useful Discord bot with plenty of features 🥭
@@ -11,6 +10,6 @@ You can find me on the internet with the same username, except on some websites 
 * [Amethyst](https://github.com/mazzlabs/Amethyst) - a Node.JS URL shortener, using Express and Handlebars 🚂
 
 ### 📬 Contact me
-You can contact me on Telegram - https://t.me/mazziwnl
+You can contact me on Telegram - https://t.me/fowled
 
 <img src="https://komarev.com/ghpvc/?username=mazzlabs&label=Profile%20views&color=blueviolet&style=flat" alt="mazz" />
