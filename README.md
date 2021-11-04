@@ -23,7 +23,7 @@ You can contact me on Telegram - https://t.me/fowled
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-05122A?style=flat&logo=intellij%20idea)&nbsp;
 
-### 💡 Miscellaneous
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=fowled&show_icons=true&theme=omni&include_all_commits=true&count_private=true" alt="stats" />
+### 🔥 Streaks
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fowled&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&dates=E57FFF)
 
 <img src="https://komarev.com/ghpvc/?username=mazzlabs&label=Profile%20views&color=blueviolet&style=flat" alt="mazz" />
