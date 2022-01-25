@@ -1,5 +1,8 @@
+![test](https://user-images.githubusercontent.com/37367577/150955373-17ce2d5b-886f-4691-9a32-3853eab6d81e.png)
+
+
 ### 👋 Hello! Welcome to my profile!
-I'm Max, a fullstack developer from <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> <b>Paris, France</b>.
+I'm Max, a fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Paris, France</b>.
 Ever since I was 10 years old, I'm interested about code and want to know everything around computers. 
 
 ### 🪁 Projects
