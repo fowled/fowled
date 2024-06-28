@@ -5,10 +5,11 @@ I'm Max, a fullstack developer from <img src="https://cdn-icons-png.flaticon.com
 Ever since I was 10 years old, I'm interested about code and want to know everything around computers. 
 
 ### 🪁 Main projects
-* [`Mango`](https://github.com/addmango/Mango) is a useful **Discord bot** with plenty of features 🥭
-* [`Emerald`](https://github.com/fowled/Emerald) is a **Minecraft plugin** that acts as a bridge with your Discord server 🌉
-* [`ScratchLib`](https://github.com/fowled/ScratchLib) is a powerful **library** to interact with the Scratch API 🚀
-* [`Amethyst`](https://github.com/fowled/Amethyst) is a handmade **URL shortener**, using NextJS 🚂
+* [`Mango`](https://github.com/addmango/mango) is a useful **Discord bot** with plenty of features 🥭
+* [`Emerald`](https://github.com/fowled/emerald) is a **Minecraft plugin** that acts as a bridge with your Discord server 🌉
+* [`Neptune`](https://github.com/fowled/neptune) is a beautiful **Discord profile visualizer**, made with `SvelteKit` 🖼️
+* [`Amethyst`](https://github.com/fowled/Amethyst) is a handmade **URL shortener**, made with `NextJS` 🚂
+* [`Sapphire`](https://github.com/fowled/sapphire) is a powerful **tool** that lets you easily display a Rich Presence status 💎
 
 ### ⚡ Skills
 | Stack | Skills |
