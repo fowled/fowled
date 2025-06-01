@@ -14,9 +14,9 @@ Ever since I was 10 years old, I'm interested about code and want to know everyt
 ### ⚡ Skills
 | Stack | Skills |
 | --- | --- |
-| **Languages** | [![Languages](https://skillicons.dev/icons?i=html,css,js,ts,py,java,kotlin)](https://skillicons.dev) |
-| **Front-end frameworks** | [![Frameworks](https://skillicons.dev/icons?i=react,vue,svelte,solidjs,nextjs)](https://skillicons.dev) |
-| **Databases** | [![DBs](https://skillicons.dev/icons?i=prisma,supabase,mongodb,sqlite)](https://skillicons.dev) |
-| **Technologies** | [![Technos](https://skillicons.dev/icons?i=vite,tailwindcss,tauri,bots)](https://skillicons.dev) |
-| **Deployment** | [![Technos](https://skillicons.dev/icons?i=git,github,vercel,netlify)](https://skillicons.dev) |
-| **Editors** | [![IDEs](https://skillicons.dev/icons?i=vscode,atom,idea,webstorm)](https://skillicons.dev) |
+| **Languages** | ![Languages](https://skillicons.dev/icons?i=html,css,js,ts,py,cs,ocaml) |
+| **Front-end frameworks** | ![Frameworks](https://skillicons.dev/icons?i=vue,nuxt,react,nextjs,solidjs,svelte) |
+| **Databases** | ![DBs](https://skillicons.dev/icons?i=prisma,supabase,mongodb,sqlite) |
+| **Technologies/Tools** | ![Technos](https://skillicons.dev/icons?i=vite,tailwindcss,npm,pnpm,yarn,postman,unity) |
+| **Deployment** | ![Technos](https://skillicons.dev/icons?i=git,github,vercel,netlify,cloudflare) |
+| **Editors** | ![IDEs](https://skillicons.dev/icons?i=vscode,visualstudio,atom,idea,webstorm,rider,pycharm) |
